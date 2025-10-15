@@ -52,5 +52,5 @@ You need Python 3.8+ installed on your system.
 4. Run the notebook:  
    Open the Jupyter Notebook and run all cells to execute the full data preparation, training, and evaluation workflow.  
    ```
-   jupyter notebook "6.1 Titanic\_Project.ipynb"  
+   jupyter notebook "Titanic\_Project.ipynb"  
    ```
