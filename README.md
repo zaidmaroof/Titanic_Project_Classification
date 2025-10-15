@@ -34,18 +34,23 @@ You need Python 3.8+ installed on your system.
 ### **Setup**
 
 1. **Clone the repository:**  
-   git clone git@github.com:zaidmaroof/Titanic_Project_Classification.git  
+	```
+   git clone   
    cd titanic-survival-prediction
-
+	```
 2. **Create a virtual environment (Recommended):**  
+	```
    python \-m venv venv  
    source venv/bin/activate  \# On Linux/macOS  
    \# venv\\Scripts\\activate   \# On Windows
-
+	```
 3. Install dependencies:  
+	```
    The necessary libraries are listed in requirements.txt.  
    pip install \-r requirements.txt
-
+	```
 4. Run the notebook:  
    Open the Jupyter Notebook and run all cells to execute the full data preparation, training, and evaluation workflow.  
+   ```
    jupyter notebook "6.1 Titanic\_Project.ipynb"  
+   ```
